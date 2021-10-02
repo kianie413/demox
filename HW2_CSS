@@ -1,0 +1,7 @@
+<style type = "text/css" >
+    h1 {color: #3d4e5e;
+        font-size: core, sans}
+    p { font-size: 24px; line-height: 1.4;}
+    p.center{font-size: 16pt;
+            text-align:left}
+</style>
